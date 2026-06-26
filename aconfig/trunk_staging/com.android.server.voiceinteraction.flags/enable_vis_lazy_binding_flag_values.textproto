@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.server.voiceinteraction.flags"
+  name: "enable_vis_lazy_binding"
+  state: ENABLED
+  permission: READ_ONLY
+}

@@ -1,0 +1,7 @@
+aconfig_values {
+    name: "aconfig-values-platform_build_release-trunk_staging-com.android.server.voiceinteraction.flags-all",
+    package: "com.android.server.voiceinteraction.flags",
+    srcs: [
+        "*_flag_values.textproto",
+    ],
+}

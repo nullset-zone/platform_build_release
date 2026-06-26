@@ -1,0 +1,7 @@
+aconfig_values {
+    name: "aconfig-values-platform_build_release-bp4a-android.app.userrecovery.flags-all",
+    package: "android.app.userrecovery.flags",
+    srcs: [
+        "*_flag_values.textproto",
+    ],
+}

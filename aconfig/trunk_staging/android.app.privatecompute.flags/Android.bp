@@ -1,0 +1,7 @@
+aconfig_values {
+    name: "aconfig-values-platform_build_release-trunk_staging-android.app.privatecompute.flags-all",
+    package: "android.app.privatecompute.flags",
+    srcs: [
+        "*_flag_values.textproto",
+    ],
+}

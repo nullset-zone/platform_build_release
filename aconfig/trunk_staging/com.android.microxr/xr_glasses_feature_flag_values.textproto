@@ -1,0 +1,6 @@
+flag_value {
+  package: "com.android.microxr"
+  name: "xr_glasses_feature"
+  state: ENABLED
+  permission: READ_ONLY
+}

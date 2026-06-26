@@ -1,0 +1,7 @@
+aconfig_values {
+    name: "aconfig-values-platform_build_release-bp4a-com.android.microxr-all",
+    package: "com.android.microxr",
+    srcs: [
+        "*_flag_values.textproto",
+    ],
+}
